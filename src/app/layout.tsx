@@ -3,7 +3,7 @@ import './globals.css';
 
 export const metadata = {
   title: 'Laboratório de Forró',
-  description: 'Landing page para Lab Escola de Dança',
+  description: 'Website page para Lab Escola de Dança',
 };
 
 export default function RootLayout({
